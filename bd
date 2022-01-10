@@ -1859,7 +1859,7 @@
   }
 
   .container-2lgZY8::after {
-    content: "Stay comfy ❤";
+    content: "Stay frosty";
     position: fixed;
     top: 220px;
     bottom: 85px;
